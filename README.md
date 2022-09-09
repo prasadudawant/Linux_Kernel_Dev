@@ -1,2 +1,9 @@
 # LinuxKernelProject
-Simple projects from Garry Nutt book I worked on to learn about linux kernel developement
+
+This git repository describes my journey towards learning and contributing to linux kernel development.
+
+|   Directory                      |            Description                         |
+-----------------------------------|------------------------------------------------|
+|my_eudyptula_challenges_solutions | My solutions to well known eudyptula challenge |
+|project                           | Linux Kernel Projects                          |
+
