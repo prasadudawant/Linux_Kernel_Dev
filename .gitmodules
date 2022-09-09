@@ -1,0 +1,3 @@
+[submodule "my_eudyptula_challenges_solutions"]
+	path = my_eudyptula_challenges_solutions
+	url = https://github.com/prasadudawant/my_eudyptula_challenges_solutions.git
