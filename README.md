@@ -1,4 +1,4 @@
-# LinuxKernelProject
+# Linux Kernel Developement
 
 This git repository describes my journey towards learning and contributing to linux kernel development.
 
